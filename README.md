@@ -1,4 +1,4 @@
-![natterstefan]![image](https://github.com/freekmurze/freekmurze/blob/master/dino.gif)
+[image](https://github.com/freekmurze/freekmurze/blob/master/dino.gif)
 
 ![](https://komarev.com/ghpvc/?username=DeekCS&color=dc143c)
 ### Hey There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
